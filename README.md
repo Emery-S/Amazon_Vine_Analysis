@@ -16,7 +16,7 @@ There were 21 Vine reviews and 6690 non-Vine reviews for luggage on amazon.
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 47.62% of reviews were five stars for vine. 51.54% of reviews were five stars for non-Vine
 
-<font size=2>All the vine reviews within the data set are uverified purchases while the non-Vine reviews seem to be a mix of verified and non-verified purchases.
+<font size=1>All the vine reviews within the data set are uverified purchases while the non-Vine reviews seem to be a mix of verified and non-verified purchases.</font>
 
 ## Summary
   According to this data set there is not a positivity bias for reviews from the vine program. the reviews by vine participants do not have an increase in positive reviews relative the the non-Vine reviews. However, the Vine review count is quite low and may require a larger sample to know with more certainty if payment for reviews influences a positivity bias. 
