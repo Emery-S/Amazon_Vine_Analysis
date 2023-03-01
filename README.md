@@ -7,16 +7,17 @@ This analysis takes an in depth look at customer reviews for a category of produ
 
 <img width="550" alt="non-Vine_Reviews" src="https://user-images.githubusercontent.com/112206035/222105641-667546bc-0b22-4f75-baf7-a3ed4f634425.png">
 
-#### How many Vine (paid) reviews and non-Vine (unpaid) reviews were there?
+### How many Vine (paid) reviews and non-Vine (unpaid) reviews were there?
 There were 21 Vine reviews and 6690 non-Vine reviews for luggage on amazon.
 
-#### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 10 of the paid reviews were 5 stars while 3448 of the non-Vine reviews were 5 stars.non
 
-#### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 47.62% of reviews were five stars for vine. 51.54% of reviews were five stars for non-Vine
 
-<font size=0.1>All the vine reviews within the data set are uverified purchases while the non-Vine reviews seem to be a mix of verified and non-verified purchases.</font>
+#### Note
+All the vine reviews within the data set are uverified purchases while the non-Vine reviews seem to be a mix of verified and non-verified purchases.
 
 ## Summary
   According to this data set there is not a positivity bias for reviews from the vine program. the reviews by vine participants do not have an increase in positive reviews relative the the non-Vine reviews. However, the Vine review count is quite low and may require a larger sample to know with more certainty if payment for reviews influences a positivity bias. 
